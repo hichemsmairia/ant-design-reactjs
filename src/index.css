@@ -1,0 +1,164 @@
+.signin-btn {
+  left: 63%;
+  border: none;
+  background-color: none;
+}
+.signup-btn {
+  left: 65%;
+  border: none;
+  background-color: none;
+}
+
+.buy-list {
+  left: 70%;
+  width: 110px;
+  height: 32px;
+}
+.shop-btn {
+  background-color: #00c8c8;
+}
+.page-header {
+  background-color: #333333;
+  height: 6;
+
+  width: 107%;
+  padding-top: 0;
+  margin-left: -50px;
+  margin-right: 18px;
+}
+.nav-menu {
+  text-align: right;
+  font-family: Lato-Light, Montserrat-Regular, AdobeInvisFont, MyriadPro-Regular;
+  font-size: 20px;
+}
+.pub {
+  width: 500px;
+  height: 500px;
+  background: #333333;
+  font-size: 36px;
+  text-align: center;
+  left: 1093;
+  fill: #ffffff;
+}
+.brand-name {
+  font-family: Montserrat-Bold, Montserrat-Regular, AdobeInvisFont,
+    MyriadPro-Regular;
+  font-size: 30px;
+  text-align: left;
+  color: black;
+}
+.image1 {
+  margin-left: -90px;
+  width: 50%;
+  height: 30%;
+}
+.container {
+  margin-left: -90px;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  font-size: 100px;
+  color: black;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  font-family: ProximaNova-Bold, Montserrat-Bold, AdobeInvisFont,
+    MyriadPro-Regular;
+}
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  color: black;
+  font-size: 20px;
+  border-style: groove;
+}
+.gutter-example .ant-row > div {
+  background: transparent;
+  border: 0;
+}
+.gutter-box {
+  background: white;
+  padding: 5px 0px;
+}
+
+.drop-img {
+  width: 50%;
+}
+.hover-menu {
+  cursor: pointer;
+  height: 370px;
+  position: relative;
+  overflow: hidden;
+  width: 400px;
+  text-align: center;
+}
+.hover-menu .fadedbox {
+  background-color: #666666;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  opacity: 0;
+  width: 360px;
+  height: 200px;
+}
+.hover-menu:hover .fadedbox {
+  opacity: 0.8;
+}
+.hover-menu .text {
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  transform: translateY(60px);
+  -webkit-transform: translateY(60px);
+}
+.hover-menu .title {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  opacity: 0;
+  transition-delay: 0.2s;
+  transition-duration: 0.6s;
+}
+.hover-menu:hover .title,
+.hover-menu:focus .title {
+  opacity: 1;
+  transform: translateY(0px);
+  -webkit-transform: translateY(0px);
+}
+
+.sider {
+  background-color: white;
+}
+.sider-image {
+  width: 50%;
+  height: 50%;
+}
+.award-winner {
+  left: 70px ;
+    width : 571px ;
+  height : 300px ;
+  background-color : #333333 ;
+  text-align: center ;
+  font-size : 36px ; 
+}
+.social-media {
+  left: 170px ;
+    width : 571px ;
+  height : 300px ;
+  background-color : #00C8C8 ;
+  text-align: center ;
+  font-size : 50px ; 
+}
+.footer {
+ background-color : #333333 ;
+}
